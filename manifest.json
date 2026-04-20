@@ -1,0 +1,1 @@
+{"format_version": 2, "header": {"description": "Silver Lamp - Enhanced Minecraft Bedrock Pack", "name": "Silver Lamp", "uuid": "12345678-1234-5678-1234-567812345678", "version": [1, 0, 0], "min_engine_version": [1, 26, 0]}, "modules": [{"description": "Silver Lamp Resource Pack", "type": "resources", "uuid": "87654321-4321-8765-4321-876543218765", "version": [1, 0, 0]}]}
